@@ -7,6 +7,6 @@
   ],
   "name": "lwc_todo",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://actierinc-dev-ed.develop.my.salesforce.com/",
   "sourceApiVersion": "62.0"
 }
